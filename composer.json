@@ -1,0 +1,13 @@
+{
+    "name": "vojinko/simple-admin",
+    "description": "A package which provides a simple UI for managing users",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Milos Vojinovic",
+            "email": "vojinovic85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
